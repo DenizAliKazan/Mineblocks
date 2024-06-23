@@ -3,7 +3,7 @@ Mineblocks game in written python
 
 
 
-This game edited and regeneration by DenizAliKazan , you follow me github and see new games / programs.
+This game by DenizAliKazan , you follow me github and see new games / programs.
 
 What a play ?
 
